@@ -1,3 +1,3 @@
-//= require ueditor/editor.config.js
-//= require ueditor/editor.all.js
+//= require ueditor/ueditor.config.js
+//= require ueditor/ueditor.all.js
 
